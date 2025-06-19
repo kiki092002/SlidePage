@@ -1,4 +1,6 @@
 import React from "react";
+
+const BACKEND_URL = "http://127.0.0.1:8000/";
 export default function Home() {
   return (
     <div className="layout-content-container flex flex-col max-w-[960px] flex-1">
