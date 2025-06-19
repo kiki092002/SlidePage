@@ -1,0 +1,1 @@
+SlideSage is an AI-powered web application that allows users to upload PowerPoint presentations and automatically generate study notes, quizzes, and to-do lists. The app is designed for students, educators, and professionals who want to streamline the learning process from slide-based content.
